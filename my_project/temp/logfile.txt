@@ -1,0 +1,5 @@
+ERROR 2024-01-01 database connection failed
+INFO 2024-01-01 server started
+ERROR 2024-01-02 timeout exceeded
+INFO 2024-01-02 request completed
+ERROR 2024-01-03 memory overflow
